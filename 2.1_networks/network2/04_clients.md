@@ -2,7 +2,7 @@
 ## 💻 4. PC Configuration (DHCP Clients)
 
 ### 4.1 Explanation  
-Describe how you configured PCs to obtain addresses automatically.
+ANSWER = Selected DHCP in the network interface properties of each PC. This triggered the DORA process allowing the client to automatically request and receive its IP address, subnet mask, default gateway, and DNS server settings from the server.
 
 ### 4.2 Evidence  
 📸 Screenshots of:
