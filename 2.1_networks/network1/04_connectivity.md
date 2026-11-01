@@ -11,7 +11,7 @@ images/ping-pc0.png
 - Which pings were successful?
 - ANSWER = The ping tests between PCs with correctly configured IP addresses were successful.They recieved replies from the destination computers.
 - Which ones failed and why?
-- ANSWER + If any ping test failed, it could be because of an incorret IP address .
+- ANSWER = If any ping test failed, it could be because of an incorret IP address .
 
 _Write your explanation here…_
 
