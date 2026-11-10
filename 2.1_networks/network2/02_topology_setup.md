@@ -15,3 +15,4 @@ Devices: The network topology was built using core networking hardware, typicall
 
 
 📸 **Insert screenshots of your Packet Tracer topology here**
+<img width="1896" height="1197" alt="Network topology screenshot " src="https://github.com/user-attachments/assets/402197fb-2d1f-4f64-9040-a3c0e584e71a" />
