@@ -4,6 +4,8 @@
 ```
 images/ping-pc0.png
 ```
+<img width="1900" height="1172" alt="ping test screenshot " src="https://github.com/user-attachments/assets/03c00228-c3a4-4c41-b79b-1fbbd406651f" />
+
 
 ### 4.2 Describe the Results
 - Were all PCs able to ping each other?
