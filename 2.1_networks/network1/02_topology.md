@@ -14,5 +14,5 @@ _The devices that added to our Packet Tracer workspace are :
 Insert your topology screenshot (saved inside `images/`).
 
 ```
-images/topology.png
+https://1drv.ms/i/c/dbb6f125dcdecc4a/IQBtGs5fZAGZRqWGJdQrRPSqAS4BEh9XA50xA_Fafa8Bh4A?e=22jcOl
 ```
